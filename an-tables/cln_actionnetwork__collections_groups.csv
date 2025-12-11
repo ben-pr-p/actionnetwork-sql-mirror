@@ -1,0 +1,14 @@
+column_name,data_type,is_nullable,ordinal_position
+_dbt_source_relation,STRING,true,1
+id,INT64,true,2
+collection_id,INT64,true,3
+group_id,INT64,true,4
+utc_created_at,TIMESTAMP,true,5
+utc_updated_at,TIMESTAMP,true,6
+source_schema,STRING,true,7
+source_table,STRING,true,8
+vendor,STRING,true,9
+segment_by_key,STRING,true,10
+vendor_unique_collections_group_id,STRING,true,11
+data_owner_id,INT64,true,12
+data_owner_code,STRING,true,13

@@ -1,0 +1,17 @@
+column_name,data_type,is_nullable,ordinal_position
+_dbt_source_relation,STRING,true,1
+id,INT64,true,2
+source_code_id,INT64,true,3
+user_id,INT64,true,4
+utc_created_at,TIMESTAMP,true,5
+utc_updated_at,TIMESTAMP,true,6
+owner_id,INT64,true,7
+owner_type,STRING,true,8
+new_user,INT64,true,9
+source_schema,STRING,true,10
+source_table,STRING,true,11
+vendor,STRING,true,12
+segment_by_key,STRING,true,13
+vendor_unique_user_source_code_id,STRING,true,14
+data_owner_id,INT64,true,15
+data_owner_code,STRING,true,16

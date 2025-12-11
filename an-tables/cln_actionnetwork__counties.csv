@@ -1,0 +1,13 @@
+column_name,data_type,is_nullable,ordinal_position
+_dbt_source_relation,STRING,true,1
+id,INT64,true,2
+county_state,STRING,true,3
+utc_created_at,TIMESTAMP,true,4
+utc_updated_at,TIMESTAMP,true,5
+source_schema,STRING,true,6
+source_table,STRING,true,7
+vendor,STRING,true,8
+segment_by_key,STRING,true,9
+vendor_unique_county_id,STRING,true,10
+data_owner_id,INT64,true,11
+data_owner_code,STRING,true,12

@@ -1,0 +1,12 @@
+column_name,data_type,is_nullable,ordinal_position
+_dbt_source_relation,STRING,true,1
+county_id,INT64,true,2
+core_field_id,INT64,true,3
+id,INT64,true,4
+source_schema,STRING,true,5
+source_table,STRING,true,6
+vendor,STRING,true,7
+segment_by_key,STRING,true,8
+vendor_unique_core_fields_county_id,STRING,true,9
+data_owner_id,INT64,true,10
+data_owner_code,STRING,true,11

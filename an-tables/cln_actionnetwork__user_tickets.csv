@@ -1,0 +1,17 @@
+column_name,data_type,is_nullable,ordinal_position
+_dbt_source_relation,STRING,true,1
+id,INT64,true,2
+ticket_id,INT64,true,3
+ticket_receipt_id,INT64,true,4
+utc_created_at,TIMESTAMP,true,5
+utc_updated_at,TIMESTAMP,true,6
+quantity,INT64,true,7
+amount,FLOAT64,true,8
+ticket_price,FLOAT64,true,9
+source_schema,STRING,true,10
+source_table,STRING,true,11
+vendor,STRING,true,12
+segment_by_key,STRING,true,13
+vendor_unique_user_ticket_id,STRING,true,14
+data_owner_id,INT64,true,15
+data_owner_code,STRING,true,16
