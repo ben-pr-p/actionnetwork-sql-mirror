@@ -1,0 +1,17 @@
+column_name,data_type,ordinal_position
+_dbt_source_relation,STRING,1
+id,INT64,2
+utc_created_at,TIMESTAMP,3
+utc_updated_at,TIMESTAMP,4
+user_id,INT64,5
+event_id,INT64,6
+role,STRING,7
+status,STRING,8
+page_id,INT64,9
+attended,BOOL,10
+source_schema,STRING,11
+source_table,STRING,12
+vendor,STRING,13
+vendor_unique_events_eventsignup_id,STRING,14
+data_owner_id,INT64,15
+data_owner_code,STRING,16

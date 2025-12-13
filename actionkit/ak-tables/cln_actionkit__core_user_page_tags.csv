@@ -1,0 +1,10 @@
+column_name,data_type,ordinal_position
+_dbt_source_relation,STRING,1
+user_id,INT64,2
+tag_id,INT64,3
+source_schema,STRING,4
+source_table,STRING,5
+vendor,STRING,6
+vendor_unique_user_page_tag_id,STRING,7
+data_owner_id,INT64,8
+data_owner_code,STRING,9

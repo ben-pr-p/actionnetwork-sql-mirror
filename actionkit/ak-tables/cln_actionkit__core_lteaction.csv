@@ -1,0 +1,12 @@
+column_name,data_type,ordinal_position
+_dbt_source_relation,STRING,1
+action_ptr_id,INT64,2
+subject,STRING,3
+letter_text,STRING,4
+target_id,INT64,5
+source_schema,STRING,6
+source_table,STRING,7
+vendor,STRING,8
+vendor_unique_core_lteaction_id,STRING,9
+data_owner_id,INT64,10
+data_owner_code,STRING,11

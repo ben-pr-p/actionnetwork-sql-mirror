@@ -1,0 +1,15 @@
+column_name,data_type,ordinal_position
+_dbt_source_relation,STRING,1
+id,INT64,2
+utc_created_at,TIMESTAMP,3
+utc_updated_at,TIMESTAMP,4
+hidden,BOOL,5
+order_index,INT64,6
+name,STRING,7
+times_used,INT64,8
+source_schema,STRING,9
+source_table,STRING,10
+vendor,STRING,11
+vendor_unique_tag_id,STRING,12
+data_owner_id,INT64,13
+data_owner_code,STRING,14

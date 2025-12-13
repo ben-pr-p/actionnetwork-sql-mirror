@@ -1,0 +1,11 @@
+column_name,data_type,ordinal_position
+_dbt_source_relation,STRING,1
+id,INT64,2
+callaction_id,INT64,3
+target_id,INT64,4
+source_schema,STRING,5
+source_table,STRING,6
+vendor,STRING,7
+vendor_unique_callaction_targeted_id,STRING,8
+data_owner_id,INT64,9
+data_owner_code,STRING,10

@@ -1,0 +1,12 @@
+column_name,data_type,ordinal_position
+_dbt_source_relation,STRING,1
+id,INT64,2
+url,STRING,3
+page_id,INT64,4
+utc_created_at,TIMESTAMP,5
+source_schema,STRING,6
+source_table,STRING,7
+vendor,STRING,8
+vendor_unique_clickurl_id,STRING,9
+data_owner_id,INT64,10
+data_owner_code,STRING,11

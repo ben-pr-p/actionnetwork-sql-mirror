@@ -1,0 +1,9 @@
+column_name,data_type,ordinal_position
+_dbt_source_relation,STRING,1
+action_ptr_id,INT64,2
+source_schema,STRING,3
+source_table,STRING,4
+vendor,STRING,5
+vendor_unique_signupaction_id,STRING,6
+data_owner_id,INT64,7
+data_owner_code,STRING,8

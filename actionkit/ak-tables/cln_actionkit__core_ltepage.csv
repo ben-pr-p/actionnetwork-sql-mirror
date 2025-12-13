@@ -1,0 +1,14 @@
+column_name,data_type,ordinal_position
+_dbt_source_relation,STRING,1
+page_ptr_id,INT64,2
+national_newspapers,BOOL,3
+regional_newspapers,BOOL,4
+local_newspapers,BOOL,5
+show_phones,BOOL,6
+signature_template_id,INT64,7
+source_schema,STRING,8
+source_table,STRING,9
+vendor,STRING,10
+vendor_unique_core_ltepage_id,STRING,11
+data_owner_id,INT64,12
+data_owner_code,STRING,13

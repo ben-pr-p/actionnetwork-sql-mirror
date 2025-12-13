@@ -1,0 +1,13 @@
+column_name,data_type,ordinal_position
+_dbt_source_relation,STRING,1
+id,INT64,2
+mailing_id,INT64,3
+user_id,INT64,4
+subject_id,INT64,5
+utc_created_at,TIMESTAMP,6
+source_schema,STRING,7
+source_table,STRING,8
+vendor,STRING,9
+vendor_unique_usermailing_id,STRING,10
+data_owner_id,INT64,11
+data_owner_code,STRING,12
